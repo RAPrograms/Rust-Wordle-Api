@@ -22,6 +22,12 @@ Start the docker compose
   docker-compose up
 ~~~
 
+Open a browser and go to
+
+~~~
+GET http://localhost:8080
+~~~
+
 ## How to add new words  
 
 1. Goto: /app/words.txt
